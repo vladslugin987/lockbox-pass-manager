@@ -13,8 +13,6 @@ SecurePass Manager is a simple, yet powerful password manager application writte
 
 ## Usage
 
-![image](https://github.com/user-attachments/assets/fbebd717-23aa-4766-9fd8-4a0dc206748e)
-
 1. **Run the application**:
     ```sh
     python main.py
@@ -38,6 +36,8 @@ SecurePass Manager is a simple, yet powerful password manager application writte
 6. **Delete a password**:
     - Select an entry from the list.
     - Click "Delete Password" to remove the entry from the list and the storage.
+
+![image](https://github.com/user-attachments/assets/fbebd717-23aa-4766-9fd8-4a0dc206748e)
 
 ## File Structure
 
