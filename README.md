@@ -1,4 +1,4 @@
-# SecurePass Manager by Vladislav Slugin [vsdev.]
+# VS Pass Manager by Vladislav Slugin [vsdev.]
 
 SecurePass Manager is a simple, yet powerful password manager application written in Python. It uses the `cryptography` library for encrypting and decrypting passwords, ensuring that your sensitive information is stored securely.
 
