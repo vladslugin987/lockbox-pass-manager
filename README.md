@@ -42,7 +42,6 @@ SecurePass Manager is a simple, yet powerful password manager application writte
 ## File Structure
 
 - `main.py`: The main script that runs the application.
-- `requirements.txt`: A list of Python packages required to run the application.
 
 ## Security
 
