@@ -11,25 +11,6 @@ SecurePass Manager is a simple, yet powerful password manager application writte
 - **Delete passwords** easily when they are no longer needed.
 - **Simple and intuitive GUI** built with `tkinter`.
 
-## Installation
-
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/vladslugin987/securepass-manager
-    cd securepass-manager
-    ```
-
-2. **Create a virtual environment** and activate it:
-    ```sh
-    python -m venv .venv
-    source .venv/bin/activate # On Windows, use `.venv\Scripts\activate`
-    ```
-
-3. **Install the required dependencies**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. **Run the application**:
