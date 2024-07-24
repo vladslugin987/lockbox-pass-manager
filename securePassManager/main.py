@@ -108,7 +108,7 @@ def delete_password():
 
 # Create the main window
 root = tk.Tk()
-root.title("SecurePass Manager by vsdev. / Vladislav Slugin / ver. 24.07.2024")
+root.title("LockBox Pass Manager by vsdev. / Vladislav Slugin / ver. 24.07.2024")
 
 # Create the key and cipher
 generate_key()
